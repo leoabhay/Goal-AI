@@ -1,0 +1,8 @@
+flask
+ultralytics
+supervision
+opencv-python
+numpy
+pandas
+matplotlib
+scikit-learn
